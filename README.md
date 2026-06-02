@@ -24,11 +24,10 @@ O **Fake News Detector AI** é um sistema web capaz de analisar notícias e iden
 Diferente de modelos simples de Machine Learning tradicionais, este projeto utiliza:
 
 ✅ IA contextual
-✅ Análise semântica  
+✅ Análise semântica
 ✅ Interpretação textual
 ✅ Verificação de plausibilidade
 ✅ Explicações automáticas
-
 ---
 
 # 🎯 Objetivos
@@ -46,6 +45,7 @@ Diferente de modelos simples de Machine Learning tradicionais, este projeto util
 ## Entrada:
 ```text
 Donald Trump é presidente dos Estados Unidos
+```
 
 ## Resutado:
 
