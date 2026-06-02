@@ -50,33 +50,33 @@ Donald Trump é presidente dos Estados Unidos
 
 ```text 
 ✅ Provavelmente Real
-
+```
 🟢 Noticia Real: 92%
 🔴 Fake News: 8%
 
 💡 Explicação:
 A afirmação é consistente com acontecimentos políticos recentes.
-
+```
 ___
 
-🚀 Tecnologias Utilizadas
+# 🚀 Tecnologias Utilizadas
 
-🧠 Inteligência Artificial
+##🧠 Inteligência Artificial
 • OpenAI API
 • GPT-4o
 • Processamento de Linguagem Natural (NLP)
 
-⚙️ Back-end
+## ⚙️ Back-end
 • Python
 • Flask
 • Flask-CORS
 
-🎨 Front-end
+ ## 🎨 Front-end
 • HTML5
 • CSS3
 • JavaScript
 
-🔒 Segurança
+ ## 🔒 Segurança
 • Python Dotenv
 • Variáveis de Ambiente
 
@@ -93,7 +93,7 @@ fake-news-detector/
 │   └── script.js
 ├── .gitignore
 └── README.md
-
+```
 # 🧠 Como Funciona
 ```text
 
@@ -109,7 +109,7 @@ Sistema retorna:
 - Probabilidade Fake
 - Probabilidade Real
 - Explicação
-
+```
 # ✨ Funcionalidades
 
 ✅ Análise contextual de notícias
@@ -121,7 +121,7 @@ Sistema retorna:
 ✅ Comunicação Front-end + Back-end
 ✅ Sistema pronto para expansão
 
----
+___
 
 # 🏆 Demonstração para Feira Científica
 
@@ -132,7 +132,7 @@ O sistema pode ser apresentado ao vivo:
 ✅ Sistema mostra probabilidade
 ✅ Explicação automática aparece na tela
 
----
+___
 
 # 📚 Conceitos Aplicados
 
@@ -163,7 +163,7 @@ Combinando:
 
 em um único projeto moderno e inovador.
 
----
+___
 
 <div align="center">
 
