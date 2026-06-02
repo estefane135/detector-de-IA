@@ -28,7 +28,6 @@ Diferente de modelos simples de Machine Learning tradicionais, este projeto util
 ✅ Interpretação textual
 ✅ Verificação de plausibilidade
 ✅ Explicações automáticas
----
 
 # 🎯 Objetivos
 
